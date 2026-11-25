@@ -118,4 +118,4 @@ Bine ați venit în portofoliul meu! Aici găsiți lucrările de laborator la di
 
 ---
 
-© 2026 – [Gurduza Ion] | Grupa [IT-24]
+© 2026 – [Gurduza Ion] | Grupa [IT-2401]
